@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 28, 2017
 
 ### Student Name:  
-(First and Last Name)
+Anna St George
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In Lesson 7, we learned how to build an application that displays the elements of a recipe's ingredients and instructions.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://annastgeorge.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. To access elements using jQuery syntax 
+2. Use built-in jQuery syntax
+3. How to use the hover() function 
 
